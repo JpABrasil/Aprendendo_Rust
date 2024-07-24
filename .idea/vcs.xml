@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Common_Collections" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Enums" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Error_Handling" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Functions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Managing Projects/managing_projects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ownership" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Structs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Variables" vcs="Git" />
+  </component>
+</project>
